@@ -750,7 +750,6 @@ body,button {
 }
 .page-27 {
 	background-color:#ffc8c5;
-	padding:0
 }
 .page-27 h3 {
 	position:absolute;
@@ -923,13 +922,6 @@ body,button {
 }
 .page-47 h3 {
 	position:absolute;
-	top:1em;
-	left:50%;
-	margin-left:-40%;
-	padding:0;
-	margin-top:0;
-	width:10em;
-	text-align:left
 }
 .page-48 {
 	background-color:#e3e2e7
