@@ -655,7 +655,7 @@ body,button {
 	z-index:1
 }
 .page-8 {
-	background:#66cbff
+	background:#f5d485
 }
 .page-8 h3 {
 	color:#eef;
@@ -676,19 +676,11 @@ body,button {
 .page-9 {
 	background-color:#c9f4fb
 }
-.page-9 img {
-	margin-top:3em
-}
 .page-10 {
 	background:url(img/iabsy10_bg.jpg)
 }
 .page-12 {
 	background-color:#ffff;
-	padding:0
-}
-.page-12 img {
-	position:absolute;
-	height:120%
 }
 .page-12 h3 {
 	margin-left:1em;
@@ -705,7 +697,7 @@ body,button {
 	height:20%
 }
 .page-14 {
-	background-color:#fbf7d1 url(img/iabsy14_bg.jpg)
+	background-color:#d69d66 url(img/iabsy14_bg.jpg)
 }
 .page-15 {
 	background:#dcf2fa 
@@ -716,15 +708,18 @@ body,button {
 .page-17 {
 	background-color:#e5f0f2
 }
-.page-19 {
-	background-image:url(img/iali75_bg.jpg)
-}
-.page-19 h3 {
-	margin-bottom:2em
+.page-18 {
+	background-color:#f6f4e8
 }
 .page-18 .text {
 	margin-left:1em;
 	margin-right:1em
+}
+.page-19 {
+	background-image:#fff
+}
+.page-19 h3 {
+	margin-bottom:2em
 }
 .page-20 {
 	background-color:#fcd0ca;
@@ -764,7 +759,7 @@ body,button {
 	text-align:center
 }
 .page-28 {
-	background:#f2e19c;
+	background:#f2e6aa;
 	padding:0
 }
 .page-28 img {
@@ -774,8 +769,6 @@ body,button {
 }
 .page-28 h3 {
 	position:absolute;
-	right:1em;
-	bottom:360px;
 	text-align:right;
 	color:#127184
 }
@@ -857,9 +850,6 @@ body,button {
 }
 .page-40 img {
 	position:absolute;
-	bottom:1em;
-	left:1em;
-	z-index:1
 }
 .page-40 h3 {
 	position:absolute;
@@ -894,17 +884,12 @@ body,button {
 }
 .page-42 img {
 	position:absolute;
-	bottom:2em;
-	left:1em
 }
 .page-42 h3 {
 	font-size:2em
 }
 .page-43 {
-	background-color:#6b79ad
-}
-.page-43 img {
-	max-height:80%
+	background-color:#fff
 }
 .page-43 h2 {
 	color:#fff
