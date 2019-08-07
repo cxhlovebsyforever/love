@@ -626,7 +626,7 @@ body,button {
 	height:80%
 }
 .page-3 {
-	background-color:#fff url(img/iabsy03_bg.jpg)
+	background-color:#fff
 }
 .page-6 {
 	background-color:#ecfafb;
@@ -680,7 +680,7 @@ body,button {
 	background:url(img/iabsy10_bg.jpg)
 }
 .page-12 {
-	background-color:#ffff;
+	background-color:#fff;
 }
 .page-12 h3 {
 	margin-left:1em;
@@ -697,7 +697,7 @@ body,button {
 	height:20%
 }
 .page-14 {
-	background-color:#d69d66 url(img/iabsy14_bg.jpg)
+	background-color:#d69d66
 }
 .page-15 {
 	background:#dcf2fa 
