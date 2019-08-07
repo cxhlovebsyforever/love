@@ -632,12 +632,6 @@ body,button {
 	background-color:#ecfafb;
 	padding:0
 }
-.page-6 img {
-	position:absolute;
-	bottom:0;
-	left:0;
-	max-width:70%
-}
 .page-6 h3 {
 	position:absolute;
 	right:10%;
